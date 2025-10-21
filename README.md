@@ -1,13 +1,7 @@
-# app-dev
+# H1 app-dev
 
-# My Series
+# H3 My Series
 
-# The  Eminence in Shadow
+# H1 The  Eminence in Shadow
 
-````
-{
-  "name": "Cid Kagenou",
-  "ability": "Superhuman physical abilities, and immense magical power",
-  "age": "16"
-}
-````
+
